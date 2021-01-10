@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/vivliostyle/vivliostyle.js)
+
 <img src="https://vivliostyle.org/assets/vivliostyle-logo.svg" width="300" alt="Vivliostyle" /><br/>
 
 [![GitHub tag][github-tag]][github-tag-url]
